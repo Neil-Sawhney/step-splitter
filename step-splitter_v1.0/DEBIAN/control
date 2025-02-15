@@ -1,0 +1,8 @@
+Source: step-splitter
+Version: 1.0
+Architecture: all
+Maintainer: Neil Sawhney <Neil@neil-sawhney.com>
+Depends: python3 (>=3.10), FreeCAD
+Homepage: https://github.com/Neil-Sawhney/step-splitter
+Description: step file splitter
+ This utility splits multi-body step files into individual step files.
